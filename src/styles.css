@@ -11,9 +11,6 @@ h1{
     color: var(--primary-color);
 }
 
-.navbar{
-    background-color: blue;
-}
 
 h2{
     color: var(--primary-color);
@@ -24,8 +21,14 @@ h2{
 h3{
     color: var(--primary-color);
 }
+
+h3:hover{
+    color:rgb(50, 199, 162) ;
+}
+
+
 .bg-info-subtle{
-    background-color:rgb(77, 237, 197) !important;
+    background-color: rgb(50, 199, 162)    !important;
 }
 
 a{
@@ -34,13 +37,33 @@ a{
     
 }
 
+a:hover{
+    color:rgb(50, 199, 162);
+}
+
+
+
+.bright:hover{
+    color:rgb(50, 199, 162) ;
+    font-size: large;
+}
+
+
+
+
 li{
     list-style: none;
 }
 
-.slide{
+.mySlides{
     display: block;
+    margin: 0 auto;
+    margin-top: 10px;
     background-color: #9fa0a5;
 }
 
+.descrip{
+    padding: 10px;
+    margin:10px;
+}
 
