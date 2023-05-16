@@ -14,3 +14,27 @@ h1{
 .navbar{
     background-color: blue;
 }
+
+h2{
+    color: var(--primary-color);
+    font-style: italic;
+
+}
+
+h3{
+    color: var(--primary-color);
+}
+.bg-info-subtle{
+    background-color:rgb(77, 237, 197) !important;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+li{
+    list-style: none;
+}
+
+
