@@ -1,0 +1,16 @@
+
+:root {
+  --primary-color: #626368;
+}
+
+body{
+    background-color:#E2E3E6;
+}
+
+h1{
+    color: var(--primary-color);
+}
+
+.navbar{
+    background-color: blue;
+}
