@@ -38,4 +38,9 @@ li{
     list-style: none;
 }
 
+.slide{
+    display: block;
+    background-color: #9fa0a5;
+}
+
 
