@@ -9,7 +9,11 @@ body{
 h1{
     color: var(--primary-color);
 }
-
+.wrapping{
+    border:2px solid #9C9E9B;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 2px;}
 
 h2{
     color: var(--primary-color);
