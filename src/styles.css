@@ -7,6 +7,13 @@ body{
     background-color:#E2E3E6;
 }
 
+.header{
+    background-color:#434549;
+}
+.header-one{
+    background-color:#434549;
+}
+
 h1{
     color: var(--primary-color);
 }
@@ -35,7 +42,8 @@ h3:hover{
 
 
 .bg-info-subtle{
-    background-color: rgb(50, 199, 162)    !important;
+    background-color: #434549 !important;
+    color: white;
 }
 
 a{
@@ -56,8 +64,6 @@ a:hover{
 }
 
 
-
-
 li{
     list-style: none;
 }
@@ -74,3 +80,26 @@ li{
     margin:10px;
 }
 
+
+
+footer{
+    background-color: #434549;
+    color: white;
+}
+
+
+.box{
+  font-size: 20px;
+  font-family: sans-serif;
+  
+   
+}
+
+
+.boxes {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  grid-row-gap: 30px;
+  grid-column-gap: 20px;
+ 
+}

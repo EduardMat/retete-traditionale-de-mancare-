@@ -20,13 +20,13 @@
 
     <link rel="stylesheet" href="dov.css"/>
 
-    <title>ChifteleDeDovlecel</title>
+    <title>Sarmale cu carne</title>
 </head>
 <body>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Acasa</a>
+        <a class="navbar-brand" href="../mainpage.html">Acasa</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -195,38 +195,37 @@
 
 <div class="wrapping">
 
-
     <h1 class=" border shadow-sm text-center p-2 my-5" >
-        Chiftelute de Dovlecei
+        Ciorba de fasole
     </h1>
 
     <div class="container">
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-4">
             <h2>
                 Ingrediente necesare:
             </h2>    
             <ul>
                 <li>
-                 -2 Dovlecei
+                 -1 varza murata
                 </li>
                 <li>
-                 -3 cartofi medii 
+                 -1.5 kg de carne tocata <br/>( tipul de carne la alegere)
                 </li>
                 <li>
-                 -1 capatana de usturoi(dupa gust)
+                 -2-3 cepe
                 </li>
                 <li>
-                 -1 ou 
+                 -1/2 de orez
                 </li>
                 <li>
-                  -3-4 linguri de faina  
+                  -1 cana de bulion
                 </li>
                 <li>
-                  -cateva frunze de marar sau patrunjel
+                  -2-3 bucati de carne intregi
                 </li>
                 <li>
-                  -ulei pentru prajit
+                  -ulei
                 </li>
                 <li>
                   -sare, piper dupa gust 
@@ -234,14 +233,14 @@
             </ul>
         </div>
 
-            <div class="col-sm-6">
-           <img src="images/dovlChift.jpg" width="300"/>
+            <div class="col-sm-8">
+           <img src="images/"  class="img-fluid rounded shadow-sm p-2 me-4"   width="500"/>
            </div>
         </div>
 
     <div class="row">
         <div class="col-sm-3">
-<img src="images/dovleceiCuratati.jpg" class="img-fluid rounded shadow-sm py-2 mt-5" width="300"/>
+<img src="images/sarmaleUnu.jpg" class="img-fluid rounded shadow-sm py-2 mt-5" width="300"/>
         </div>
 
     <div class="col-sm-9">
@@ -250,15 +249,20 @@
     Mod de preparare:
 </h2>
 <p class="p-3 me-5">
-Curatam cartofii, dovleceii si usturoiul.Cratofii si dovleceii se dau prin razatoare mare, apoi de presara cu un strop de sare, dupa care se lasa la scurs 10 -15 minute.Fii sigura ca cartofii si dovleceii sunt scursi bine de zeama inainte sa adaugi celelalte ingrediente.
-Se adauga faina, oul, sare, verdeta, usturoi, piper dupa gust.Se amesteca bine, apoi cu ajutorul unei linguri chiftelele se pun la prajit in ulei incins.
-Se rumenesc bine pe o parte si pe alta, apoi de scot pe sertevel de hartie.Absolut delicioase, pofta buna!
+Sarmale- mancarea oricarui roman! Sunt nenumarate retete de sarmale, depinde de zona in care locuiesti.Vom incerca sa gatim astazi o reteta de sarmale populara, simpla si foarte des intalnita, reteta de sarmale a mamei mele, cu care am crescut.
+Haideti sa vedem repede cum se prepara!
+Pregatim varza murata, o desfacem, o spalam, o deseram daca este nevoie si incepem sa portionam foile.
+Pe aragaz, punem cele 2-3 cepe la calit in 2-3 linguri de ulei, adaugam orezul si 1/2 apa si 2-3 linguri de bulion.
+Lasam sa fiarba impreuna 10 minute, dupa care oprim focul, lasam un pic la racit, apoi vom adauga sarea, piperul, carnea si amestecam bine.
+Incepem sa impaturim sarmalele, cand terminam punem cotoare de varza tocata pe fundul oalei, apoi le asezam frumos intr o oala cu fundul gros, alternand straturile de sarmale cu bucatile de carne, care au fost pre fierte so spalate.
+Lasam sa fiarba la foc mic/mediu aproximativ 2 ore,avand grija sa adaugam apa fiarta din cand in cand.in ultima jumatate de ora, adaugam bulionul amestecat cu apa, 3-4 linguri de ulei si foile de dafin.Cam asta i tot, pofta mare sa aveti!
+
+
+
 </p>
 </div>
 </div>
-    </div>
-  
-
+</div>
 
 
 
@@ -303,8 +307,6 @@ Se rumenesc bine pe o parte si pe alta, apoi de scot pe sertevel de hartie.Absol
           </a>
         </p>
       </footer>
-
-
 
 
 
