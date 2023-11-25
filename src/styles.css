@@ -7,6 +7,12 @@ body{
     background-color:#E2E3E6;
 }
 
+
+
+.bg-body-tertiary{
+    background-color:#E9E9E9 !important;
+}
+
 .header{
     background-color:#434549;
 }
@@ -46,6 +52,28 @@ h3:hover{
     color: white;
 }
 
+
+.navbar-brand{
+    font-size:25px;
+     color:rgb(69, 66, 66);
+}
+
+.navbar-brand:hover{
+    font-size:25px;
+    color:rgb(50, 199, 162);
+}
+
+  
+
+
+.nav-link{
+ font-size: 20px;
+}
+
+
+.dropdown-item{
+    font-size: 15px;
+}
 a{
     text-decoration: none;
     color: var(--primary-color);
@@ -60,7 +88,19 @@ a:hover{
 
 .bright:hover{
     color:rgb(50, 199, 162) ;
-    font-size: large;
+}
+
+
+.welcome{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 60px;
+    color:rgb(69, 66, 66);
+}
+
+.welcome:hover{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 60px;
+    color:rgb(50, 199, 162) ;
 }
 
 
@@ -72,7 +112,11 @@ li{
     display: block;
     margin: 0 auto;
     margin-top: 10px;
-    background-color: #9fa0a5;
+    background-color: rgb(212, 207, 207);
+    border: 1px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  
 }
 
 .descrip{
